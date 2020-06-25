@@ -1,6 +1,6 @@
 # 353extrareport
-This is my system info (systeminfo.png).
-I use these following steps for this assignment:
+The png file above is my system info (systeminfo.png). My OS is Ubuntu 20.04. I use Visual Studio Code to write code, but I use terminal to compile and run them. 
+I tried these following steps for this assignment:
 1. I use the list of words downloaded from voronoi server (web2) to create a new list without capitcal letters (web4).
 2. I created text file (a rainbow table) from web4 (foo4.c) and searched that file, and didn't get any result.
 3. I created a function to capitalize every word in list (web4). For example, if a word has 8 characters length, the total I will have is 2^8 (256). Then I use them to generate a new rainbow table. The file "foo7.c" did that, and the run time is 8 mintues 40 seconds.
